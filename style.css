@@ -1,0 +1,54 @@
+#startBtn {
+    margin: 30px 0 0 15px;
+    width: 40%;
+}
+
+#main {
+    margin-left: 0px;
+}
+
+#finalID {
+    font-size: xx-large;
+    margin-left: 15px;
+}
+
+#qzBtn {
+    background-color: darkmagenta;
+    border-radius: 10px;
+    display: block;
+    margin: 10px;
+}
+
+#finalScore {
+    1rem 1rem 0 3rem!important;
+}
+
+#highScores {
+    margin-left: 2%;
+    cursor: pointer;
+    color:#FFEAD9;
+    
+}
+
+#time {
+    margin-left: 75%;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -39px;
+}
+ .container{
+    display: flex;
+    justify-content: center;
+    background-color: #FFFF14;
+ }
+
+ body{
+    background-color: #FF7E14;
+ }
+
+ p{
+    color:#FFEAD9;
+    text-align: center; 
+}
